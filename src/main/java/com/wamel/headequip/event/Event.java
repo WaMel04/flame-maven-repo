@@ -107,7 +107,7 @@ public class Event extends JavaPlugin implements Listener {
             return false;
 
         List<String> lores = item.getItemMeta().getLore();
-        if(lores.contains("장착 가능")) {
+        if(lores.contains("§7장착 가능")) {
             return true;
         } else {
             return false;
