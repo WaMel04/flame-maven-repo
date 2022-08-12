@@ -1,0 +1,7 @@
+name: HeadEquip
+author: WaMel_
+description: 블럭을 투구처럼 착용할 수 있는 플러그인입니다.
+
+main: com.wamel.headequip.HeadEquip
+version: '${project.version}'
+
