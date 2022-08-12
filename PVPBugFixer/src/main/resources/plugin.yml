@@ -1,5 +1,0 @@
-name: PVPBugFixer
-version: '${project.version}'
-main: com.wamel.pvpbugfixer.PVPBugFixer
-authors: [ WaMel_ ]
-description: Fix the knockback bug in 1.5.2.
